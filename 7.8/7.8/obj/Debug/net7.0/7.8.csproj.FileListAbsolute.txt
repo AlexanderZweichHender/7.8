@@ -1,0 +1,15 @@
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\7.8\7.8\7.8\bin\Debug\net7.0\7.8.exe
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\7.8\7.8\7.8\bin\Debug\net7.0\7.8.deps.json
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\7.8\7.8\7.8\bin\Debug\net7.0\7.8.runtimeconfig.json
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\7.8\7.8\7.8\bin\Debug\net7.0\7.8.dll
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\7.8\7.8\7.8\bin\Debug\net7.0\7.8.pdb
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\7.8\7.8\7.8\obj\Debug\net7.0\7.8.csproj.AssemblyReference.cache
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\7.8\7.8\7.8\obj\Debug\net7.0\7.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\7.8\7.8\7.8\obj\Debug\net7.0\7.8.AssemblyInfoInputs.cache
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\7.8\7.8\7.8\obj\Debug\net7.0\7.8.AssemblyInfo.cs
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\7.8\7.8\7.8\obj\Debug\net7.0\7.8.csproj.CoreCompileInputs.cache
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\7.8\7.8\7.8\obj\Debug\net7.0\7.8.dll
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\7.8\7.8\7.8\obj\Debug\net7.0\refint\7.8.dll
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\7.8\7.8\7.8\obj\Debug\net7.0\7.8.pdb
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\7.8\7.8\7.8\obj\Debug\net7.0\7.8.genruntimeconfig.cache
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\7.8\7.8\7.8\obj\Debug\net7.0\ref\7.8.dll
