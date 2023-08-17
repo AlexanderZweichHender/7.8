@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TRhQt6eXQGN6e5xjiASOqOPAIH+xtCPAWEe2ERxHFTiRjEq05b6sotmqSBpY4KdXI4+WT8Iuu14EzWX3P8ryyw==",
+  "dgSpecHash": "1mqSUC3bWLJFy/1HMaGZvG49iMo9Yvv+YLicv0BSTQNrNckBKhPmPZ35X78zZIHwlpLqTuvyBcMetDDuouL+fQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ashpu\\OneDrive\\Рабочий стол\\.Net\\7.8\\7.8\\7.8\\7.8.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ashpu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

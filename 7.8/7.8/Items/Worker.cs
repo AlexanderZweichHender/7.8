@@ -1,12 +1,4 @@
-﻿//ID
-//Дата и время добавления записи
-//Ф.И.О.
-//Возраст
-//Рост
-//Дата рождения
-//Место рождения
-
-namespace _7._8.Items
+﻿namespace _7._8.Items
 {
     internal struct Worker
     {
@@ -24,5 +16,8 @@ namespace _7._8.Items
             _fullName = fullName;
             _dateOfBirth = dateOfBirth;
         }
+
+        public override string ToString()
+            => $"ID: {_id}, FullName: {_fullName}; DateOfBirth: {_dateOfBirth}";
     }
 }
